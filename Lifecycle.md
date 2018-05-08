@@ -56,3 +56,14 @@
 - scaled to reduce size
 - decrease process size by 75%
 - Tensorflow processing units use these numbers 
+
+### Methods
+- get-shape ()
+- reshape ()
+- rank
+- dtype - return type
+- cast
+
+# Gradient Descent Optimizer
+- add animation if req to show how variables change through iterations 
+- 
